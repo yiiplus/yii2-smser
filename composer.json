@@ -1,5 +1,5 @@
 {
-	"name" : "moego/service-sms-php-yii-sdk",
+	"name" : "yiiplus/yii2-smser",
 	"description" : "moego sms yii client",
 	"authors" : [{
 			"name" : "wuxiaoju",
